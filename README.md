@@ -3,7 +3,7 @@
 ***This repository contains my solutions to the final projects of the Back End Development and APIs learning path of FreeCodeCamp,
 in which these topics are covered: npm, Node, Express, MongoDB, and Mongoose.***
 
-The last part of the ["Back End Development and APIs"](https://www.freecodecamp.org/learn/back-end-development-and-apis) section on freeCodeCamp is the Back End Development and APIs Projects, which includes five projects designed to solidify your skills in building APIs and back-end applications. These projects are 5 different microservices, which are smaller applications that are limited in scope, and serve as hands-on practice for working with Node.js, Express and MongoDB.
+The last part of the [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis) section on freeCodeCamp is the "Back End Development and APIs Projects", which includes five projects designed to solidify your skills in building APIs and back-end applications. These projects are 5 different microservices, which are smaller applications that are limited in scope, and serve as hands-on practice for working with Node.js, Express and MongoDB.
 
 Here’s a brief overview of each project:
  - [Timestamp Microservice](https://github.com/ningia92/back-end-projects-fcc/tree/main/project-timestamp): API that returns the Unix timestamp and the UTC time when a date string is provided (or the current time if no date is given).
