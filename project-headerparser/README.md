@@ -1,3 +1,3 @@
 # Request Header Parser Microservice
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+The Request Header Parser Microservice project on freeCodeCamp involves building an API endpoint (/api/whoami) that returns a JSON object containing information extracted from the client's request headers. Specifically, the API will return the user's IP address, preferred language, and operating system/browser details. This project helps you understand how to access and parse request headers in a Node.js and Express environment, providing valuable practice in API development. The full stack JavaScript app must be functionally similar to [this](https://request-header-parser-microservice.freecodecamp.rocks/.).

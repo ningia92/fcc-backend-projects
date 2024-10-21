@@ -1,8 +1,6 @@
 # Timestamp Microservice
 
-Build a full stack JavaScript app that is functionally similar to [this](https://timestamp-microservice.freecodecamp.rocks).
-
-Description: the Timestamp Microservice project from freeCodeCamp is designed to help you understand how to work with APIs and dates in JavaScript. The microservice allows users to send a date string (either in standard format like "YYYY-MM-DD" or a Unix timestamp) as a parameter in a URL, and it responds with a JSON object containing the corresponding Unix timestamp and UTC date.
+Description: the Timestamp Microservice project from freeCodeCamp is designed to help you understand how to work with APIs and dates in JavaScript. The microservice allows users to send a date string (either in standard format like "YYYY-MM-DD" or a Unix timestamp) as a parameter in a URL, and it responds with a JSON object containing the corresponding Unix timestamp and UTC date. The full stack JavaScript app must be functionally similar to [this](https://timestamp-microservice.freecodecamp.rocks).
 
 Here are the key features of the project:
   1. The API endpoint is GET /api/timestamp/:date_string?.
