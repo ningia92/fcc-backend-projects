@@ -33,6 +33,7 @@ app.post('/api/shorturl', async (req, res) => {
       if (findURL) {
         res.json(findURL)
       } else {
+        // use the count of documents in the collection as the value of the short url
         const countUrls = await ShortURL.countDocuments({})
         const newURL = new ShortURL(
           {
