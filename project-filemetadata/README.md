@@ -1,0 +1,5 @@
+# File Metadata Microservice
+
+The File Metadata Microservice project from freeCodeCamp involves creating a service that accepts file uploads and returns metadata about the file. This project requires setting up an API in Node.js using Express, with the multer middleware to handle file uploads. When a file is uploaded to the /api/fileanalyse endpoint, the API processes it and responds with a JSON object that includes the file's name, type, and size in bytes.
+
+full stack JavaScript app that is functionally similar to [this](https://file-metadata-microservice.freecodecamp.rocks). This project is a practical exercise in building a REST API and managing file uploads, allowing developers to gain experience with handling HTTP POST requests and returning JSON responses. It's a useful tool for learning about microservices and working with file metadata, often applicable in systems that need to catalog or verify file properties.
