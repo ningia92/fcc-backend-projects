@@ -10,6 +10,6 @@ Here’s a brief overview of each project:
  - [Request Header Parser Microservice](https://github.com/ningia92/back-end-projects-fcc/tree/main/project-headerparser): API that parses details from the client request header, like the IP address, language, and software information, and returns it in JSON format.
  - [URL Shortener Microservice](https://github.com/ningia92/back-end-projects-fcc/tree/main/project-urlshortener): API that allows users to input a URL, stores it in a database, and provides a shortened version of the URL that redirects to the original one.
  - [Exercise Tracker](https://github.com/ningia92/back-end-projects-fcc/tree/main/project-exercisetracker): API that lets users log exercise activities. The API keeps track of users, their exercises, and associated metadata like duration, date, and description.
- - File Metadata Microservice: microservice that allows users to upload a file, and the API responds with metadata about the file, such as size and type.
+ - [File Metadata Microservice](https://github.com/ningia92/fcc-backend-projects/tree/main/project-filemetadata): microservice that allows users to upload a file, and the API responds with metadata about the file, such as size and type.
 
 
